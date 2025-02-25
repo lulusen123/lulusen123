@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lulusen123
+- 👋 Hi, I’m @lulusen585
 - 👀 I’m interested in Python , to understand
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some IT people
